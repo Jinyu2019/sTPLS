@@ -1,0 +1,4 @@
+GDSC_data_XY.RDS filter=lfs diff=lfs merge=lfs -text
+GDSC_data_tensor.RDS filter=lfs diff=lfs merge=lfs -text
+simulated_data_XY.RDS filter=lfs diff=lfs merge=lfs -text
+simulated_data_tensor.RDS filter=lfs diff=lfs merge=lfs -text
