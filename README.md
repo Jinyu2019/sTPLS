@@ -6,5 +6,5 @@ sTPLS could simultaneously identify common and specific correlated patterns betw
 
 sTPLS is implemented in R. Examples could be found under the directory './sTPLS/examples' 
 
-- Simulated data: refer to the [R Markdown file](https://htmlpreview.github.io/?https://github.com/Jinyu2019/sTPLS/blob/main/examples/GDSC_data/GDSC_application.html).
-- Paired gene expression and drug response data from the GDSC dataset:  refer to the [R Markdown file](https://htmlpreview.github.io/?https://github.com/Jinyu2019/sTPLS/blob/main/examples/GDSC_data/GDSC_application.html).
+- Simulated data: refer to the [R Markdown file](https://htmlpreview.github.io/?https://github.com/Jinyu2019/sTPLS/blob/main/examples/simulated_data/simulation.html) in ./examples/simulated_data/simulation.Rmd.
+- Paired gene expression and drug response data from the GDSC dataset:  refer to the [R Markdown file](https://htmlpreview.github.io/?https://github.com/Jinyu2019/sTPLS/blob/main/examples/GDSC_data/GDSC_application.html) in ./examples/GDSC_data/GDSC_application.Rmd.
